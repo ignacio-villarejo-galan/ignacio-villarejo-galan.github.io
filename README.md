@@ -1,6 +1,6 @@
 # Welcome to my personal GitHub 
 
-In this page you can follow my activity in GitHub.
+In this page you can follow my activity on GitHub.
 
 Repositories created by me, fork from other repositories...
 
@@ -15,7 +15,7 @@ Here you have the url to the repository:
 [Memory-game](https://github.com/ignacio-villarejo-galan/memory-game) 
 
 A preview:
-![Image](https://github.com/ignacio-villarejo-galan/ignacio-villarejo-galan.github.io/blob/master/Captura.PNG)
+![Image](Captura.PNG)
 
 
 
