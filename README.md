@@ -14,11 +14,11 @@ Repositories created by me, fork from other repositories...
 Here you have the url to the repository:
 [Memory-game](https://github.com/ignacio-villarejo-galan/memory-game) 
 
-A preview:
+
 ![Image](Captura.PNG)
 
 
 
-### Support or Contact
+## Support or Contact
 
 You can contact me through my email: ignacio.villarejo.galan@gmail.com
