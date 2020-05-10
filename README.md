@@ -1,8 +1,8 @@
-# Welcome to my personal GitHub 
+# My personal GitHub 
 
 In this page you can follow my activity on GitHub.
 
-Repositories created by me, fork from other repositories...
+Repositories created by me, forks from other repositories...
 
 ## Forks from other repositories
 
