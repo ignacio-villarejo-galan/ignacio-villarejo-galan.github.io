@@ -4,7 +4,7 @@ In this page you can follow my activity in GitHub.
 
 Repositories created by me, fork from other repositories...
 
-## Repositories
+## Forks from other repositories
 
 ### Memory game
 
