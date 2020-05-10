@@ -6,13 +6,13 @@ Repositories created by me, fork from other repositories...
 
 ## Repositories
 
-## Memory game
+### Memory game
 
 
-**Memory-game** is a fork from [Link] (https://github.com/kubowania/memory-game)
+**Memory-game** is a fork from kubowania/memory-game
 
 Here you have the url to the repository:
-[Link](https://github.com/ignacio-villarejo-galan/memory-game) and ![Image](src)
+[Memory-game](https://github.com/ignacio-villarejo-galan/memory-game) and ![Image](src)
 
 
 
