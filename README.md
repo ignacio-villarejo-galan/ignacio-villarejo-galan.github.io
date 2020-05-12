@@ -14,6 +14,8 @@ Repositories created by me, forks from other repositories...
 Here you have the url to the repository:
 [Connect-four](https://github.com/ignacio-villarejo-galan/connect-four) 
 
+![Image](images/connect four.PNG)
+
 ### Memory game
 
 
