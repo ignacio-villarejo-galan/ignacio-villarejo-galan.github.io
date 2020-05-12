@@ -6,6 +6,14 @@ Repositories created by me, forks from other repositories...
 
 ## Forks from other repositories
 
+### Connect four
+
+
+**Connect-four** is a fork from kubowania/memory-game
+
+Here you have the url to the repository:
+[Connect-four](https://github.com/ignacio-villarejo-galan/connect-four) 
+
 ### Memory game
 
 
