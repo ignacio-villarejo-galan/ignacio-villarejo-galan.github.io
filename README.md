@@ -6,7 +6,15 @@ Repositories created by me, forks from other repositories...
 
 ## Forks from other repositories
 
-### Connect four
+### Nokia3310-Snake
+
+
+**Nokia3310-Snake** is a fork from kubowania/connect-four
+
+Here you have the url to the repository:
+[Nokia3310-Snake](https://github.com/ignacio-villarejo-galan/Nokia3310-Snake) 
+
+![Image](images/snake.PNG)### Nokia3310-Snake
 
 
 **Connect-four** is a fork from kubowania/connect-four
